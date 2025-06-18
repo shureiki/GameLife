@@ -43,13 +43,13 @@ const styles = StyleSheet.create({
         paddingVertical: 24
     },
     contributorsText: {
-        marginBottom: 12,
+        marginBottom: 15,
         fontSize: 22
     },
     contributorsSubText: {
         textAlign: 'justify'
     },
-
+    
     // Links
     footerText: {
         marginBottom: 24
@@ -60,7 +60,6 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'space-evenly',
         marginTop: 6,
-        marginBottom: 32
     }
 });
 
